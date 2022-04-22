@@ -11,6 +11,7 @@
 
     <modules>
         <module>lesson-jpa</module>
+        <module>try-wildfly</module>
     </modules>
 
     <properties>
